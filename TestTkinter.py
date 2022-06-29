@@ -2,7 +2,7 @@
 from tkinter import *
 
 jan = Tk()                      # PROPRIEDADES DA JANELA ----
-jan.title('SomaValores')
+jan.title('NovoTitulo')
 jan.geometry('300x200')
 jan.resizable(False, False)
 
@@ -28,7 +28,7 @@ def update():                  # FUNÇÃO RESPONSÁVEL POR REDECLARAR AS VARIÁV
 update_btn = Button(text='Somar', command=update)     # BOTÕES, TEXTO E FECHAMENTO DO CÓDIGO ('jan.mainloop()')
 update_btn.place(x=75, y=100)
 
-lbl = Label(jan, textvariable=result, bg='#ADD8E6', fg='white')
+lbl = Label(jan, textvariable=result, bg='red', fg='white')
 lbl.place(x=190, y=100, width=50, height=40)
 
 jan.mainloop()
