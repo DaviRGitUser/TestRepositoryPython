@@ -7,4 +7,4 @@ Esse projeto armazena uma pequena aplicação de soma de valores, feita apenas p
   - Soma dos valores selecionados aleatóriamente
   - Funcionamento por Graphic User Interface ( GUI )
 
-Estamos abertos a sugestões que possam melhorar o projetos em quaisquer aspectos, sintam-se à vontade para darem ideias!
+Estamos abertos a sugestões que possam melhorar o projetos em quaisquer aspectos, sintam-se à vontade para dar ideias!
